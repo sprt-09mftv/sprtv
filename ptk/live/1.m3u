@@ -1,0 +1,1374 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://158.101.214.187:8080/epg.xml.gz?q=eyJ1c2VySWQiOiLQn9C70Y7RiNCi0JIgT0cifQ.poKMoB5l1QAJzw19_Ul1UuoJqF0_WVICgGr0gzTTP3aQCXytBfPh_ayMwMahLrfHdS5t-ezkc-GAl4Bhht9_0g,http://epg.propg.net/epg.xml.gz,http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172100" group-title="Россия",Всё ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/video_800x450_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172100"  group-title="Россия",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/video_1920x1080_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="pervy-mn1" tvg-logo="https://epgx.site/p/pervy-mn1.png"  group-title="Россия",Первый канал (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179801" group-title="Россия",Первый канал
+http://92.242.110.52:9835/udp/238.1.11.32:1234
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179800" group-title="Россия",Первый канал HD
+http://193.201.98.10:5000/c99
+#EXTINF:-1 tvg-id="pervy-pl1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172748"  group-title="Россия",Первый канал (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179800" group-title="Россия",Первый канал (+2)
+http://92.242.110.52:9835/udp/238.1.11.35:1234
+#EXTINF:-1 tvg-id="pervy-pl3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172749"  group-title="Россия",Первый канал (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/video_800x450_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=190901"  group-title="Россия",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180107" group-title="Россия",Первый канал HD (+4)
+http://94.232.104.237:8000/play/099/index.m3u8
+#EXTINF:-1 tvg-id="pervy-pl5" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172750"  group-title="Россия",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
+#EXTINF:-1 tvg-id="pervy-pl6" tvg-logo="https://epgx.site/p/pervy-pl6.png"  group-title="Россия",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 tvg-id="pervy-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172751"  group-title="Россия",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 tvg-id="pervy-pl8" tvg-logo="https://epgx.site/p/pervy-pl8.png" group-title="Россия",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 tvg-id="pervy-pl9" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172752" group-title="Россия",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180110 group-title="Россия",Первый канал. Всемирная сеть (Европа)
+http://202.21.104.6:88/ort-tv/mono.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" tvg-logo="https://epgx.site/p/pervy-kanal-csi.png" group-title="Россия",Первый канал. Всемирная сеть (СНГ)
+#EXTVLCOPT:http-user-agent=cdn.ucom.am
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180203 group-title="Россия",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179883" group-title="Россия",Россия 1
+http://92.242.110.52:9835/udp/238.1.11.49:1234
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179884" group-title="Россия",Россия 1 HD
+http://176.113.48.221:8986/90
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepedia.fandom.com/ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%A2%D0%A0%D0%9A_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA.png" group-title="Россия",Россия 1 (Донецк)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepedia.fandom.com/ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%A2%D0%A0%D0%9A_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA.png" group-title="Россия",Россия 1 (Луганск)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180204" group-title="Россия",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_1.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180204" group-title="Россия",Россия 1 HD (+1)
+https://player.smotrim.ru/iframe/stream/live_id/60262?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179882" group-title="Россия",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 tvg-id=rossia1-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179882" group-title="Россия",Россия 1 HD (+2)
+https://player.smotrim.ru/iframe/stream/live_id/58511?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180205" group-title="Россия",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180205" group-title="Россия",Россия 1 HD (+3)
+https://player.smotrim.ru/iframe/stream/live_id/60263?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187765" group-title="Россия",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187765" group-title="Россия",Россия 1 HD (+4)
+https://player.smotrim.ru/iframe/stream/live_id/58510?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180206" group-title="Россия",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180206" group-title="Россия",Россия 1 HD (+5)
+https://player.smotrim.ru/iframe/stream/live_id/60264?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187766" group-title="Россия",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187766" group-title="Россия",Россия 1 HD (+6)
+https://player.smotrim.ru/iframe/stream/live_id/58509?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187182" group-title="Россия",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187182" group-title="Россия",Россия 1 HD (+7)
+https://player.smotrim.ru/iframe/stream/live_id/60265?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187183" group-title="Россия",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187183" group-title="Россия",Россия 1 HD (+8)
+https://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187181" group-title="Россия",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187181" group-title="Россия",Россия 1 HD (+9)
+https://player.smotrim.ru/iframe/stream/live_id/60266?43e=5.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179887" group-title="Россия",RTR Planeta (Европа)
+http://46.45.158.8:8098/bysid/51010
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/bf/%D0%A0%D0%A2%D0%A0-%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_4.png/revision/latest?cb=20220307100348&path-prefix=ru" group-title="Россия",РТР-Планета (СНГ)
+http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/bf/%D0%A0%D0%A2%D0%A0-%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_4.png/revision/latest?cb=20220307100348&path-prefix=ru" group-title="Россия",РТР-Планета (Азия)
+https://player.smotrim.ru/iframe/stream/live_id/63254?43e=5.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-amerika" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179887" group-title="Россия",RTR Planeta (Америка)
+https://player.smotrim.ru/iframe/stream/live_id/63250?43e=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179808" group-title="Россия",НТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179808" group-title="Россия",НТВ
+http://178.212.236.3:8802/play/m3_14
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179809" group-title="Россия",НТВ HD
+http://91.205.199.3:80/ntvhd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epgx.site/p/ntv-pl1.png" group-title="Россия",НТВ (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://epgx.site/p/ntv-pl1.png" group-title="Россия",НТВ HD (+1)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/ntv1h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179807" group-title="Россия",НТВ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179807" group-title="Россия",НТВ HD (+2)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179808" group-title="Россия",НТВ (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187770" group-title="Россия",НТВ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187770" group-title="Россия",НТВ HD (+4)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179808" group-title="Россия",НТВ (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179808" group-title="Россия",НТВ (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187771" group-title="Россия",НТВ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179810" group-title="Россия",НТВ Мир
+#EXTVLCOPT:http-user-agent=cdn.ucom.am
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216327" group-title="Россия",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216327" group-title="Россия",Пятый канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216327" group-title="Россия",Пятый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216328" group-title="Россия",Пятый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216327" group-title="Россия",Пятый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216329" group-title="Россия",Пятый канал (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216327" group-title="Россия",Пятый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216327" group-title="Россия",Пятый канал (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216330" group-title="Россия",Пятый канал (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 tvg-id="piaty-int" tvg-logo="https://epgx.site/p/piaty-int.png" group-title="Россия",Пятый канал International
+http//strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179918" group-title="Россия",ТВЦ
+http://92.242.110.52:9835/udp/238.1.9.28:1234
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183497" group-title="Россия",ТВЦ HD
+https://rec102.24h.tv/mbrjwt/107d9485c10461fde5939d7ffc515907d9613312-5740-0-24h14559361-5-37231069-1711195317-e128-ejt1X538g-T6AdJYxNqkbreXWdalmmK1c2pyfEYxDAs/1.m3u8
+#EXTINF:-1 tvg-id="tvci" tvg-logo="http://epg.it999.ru/img2/5691.png" group-title="Россия",ТВЦ International
+http://109.248.236.21:4433/udp/238.1.1.11:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179806" group-title="Россия",РЕН ТВ (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179806" group-title="Россия",РЕН ТВ
+http://92.242.110.52:9835/udp/238.1.11.43:1234
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181241" group-title="Россия",РЕН ТВ HD
+http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179806" group-title="Россия",РЕН ТВ (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_1.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179805" group-title="Россия",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179806" group-title="Россия",РЕН ТВ (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_3.m3u8
+#EXTINF:-1 tvg-id="rentv-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188289" group-title="Россия",РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179806" group-title="Россия",РЕН ТВ (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185749" group-title="Россия",РЕН ТВ (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
+#EXTINF:-1 tvg-id="rentv-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188290" group-title="Россия",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210633" group-title="Россия",РЕН ТВ International
+http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179866" group-title="Россия",Звезда (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179866" group-title="Россия",Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181052" group-title="Россия",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179866" group-title="Россия",Звезда (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_1.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179867" group-title="Россия",Звезда (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/video_800x450_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179866" group-title="Россия",Звезда (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_3.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187823" group-title="Россия",Звезда (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/video_800x450_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179866" group-title="Россия",Звезда (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185748" group-title="Россия",Звезда (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187824" group-title="Россия",Звезда (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/video_800x450_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Россия",Мир (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Россия",Мир
+http://92.242.110.52:9835/udp/238.1.11.47:1234
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=169560" group-title="Россия",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Россия",Мир (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_1.m3u8
+#EXTINF:-1 tvg-id="mir-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187772" group-title="Россия",Мир (+2)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Россия",Мир (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_3.m3u8
+#EXTINF:-1 tvg-id="mir-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179912" group-title="Россия",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Россия",Мир (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Россия",Мир (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_6.m3u8
+#EXTINF:-1 tvg-id="mir-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187773" group-title="Россия",Мир (+7)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="grozny" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185007" group-title="Россия",Грозный
+https://streamer1.connectto.com/517/mono.m3u8
+#EXTINF:-1 tvg-id="grozny" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185007" group-title="Россия",Грозный HD
+http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 tvg-id="don-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185008" group-title="Россия",Дон 24 HD (Ростов-на-Дону)
+http://91.215.232.5:8888/udp/239.195.41.17:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=216700" group-title="Россия",За! ТВ (Мелитополь)
+http://178.212.236.3:8802/play/m1_35
+#EXTINF:-1 tvg-id="59338" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216705" group-title="Россия",Луганск 24
+http://178.212.236.3:8802/play/m1_39
+#EXTINF:-1 tvg-id="59338" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216705" group-title="Россия",Луганск 24 HD
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181196" group-title="Россия",Новороссия HD (Донецк)/Соловьёв.Live
+http://92.242.110.52:9835/udp/238.1.12.13:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210024" group-title="Россия",Оплот ТВ (Донецк)
+http://92.242.110.52:9835/udp/238.1.12.11:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167802" group-title="Россия",Оплот 2 (Донецк)
+http://92.242.110.52:9835/udp/238.1.12.12:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210023" group-title="Россия",Первый Республиканский (Донецк)
+http://92.242.110.52:9835/udp/238.1.12.9:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216745" group-title="Россия",Таврия (Геническ)
+http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212726" group-title="Россия",ТНР (Херсонская и Запорожская область)/Соловьёв.Live 
+http://178.212.236.3:8802/play/m1_36
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/59/%D0%AE%D0%BD%D0%B8%D0%BE%D0%BD_%28%D0%BC%D0%BE%D0%BD%D0%BE%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%29.png/revision/latest?cb=20200817180026&path-prefix=ru " group-title="Россия",Юнион (Донецк)
+http://92.242.110.52:9835/udp/238.1.12.10:1234
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Беларусь",Мир
+http://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=169560" group-title="Беларусь",Мир HD
+http://158.101.214.187:8080/channel/n607505bf/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180091" group-title="Беларусь",НТВ Беларусь 
+http://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180091" group-title="Беларусь",НТВ Беларусь HD
+http://158.101.214.187:8080/channel/7ddad1cc/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="zvyazda-by" tvg-logo="https://epgx.site/p/zvyazda-by.png" group-title="Беларусь",Звязда HD
+http://158.101.214.187:8080/channel/n408b636c/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="belarus4-brest" tvg-logo="https://epgx.site/p/belarus4.png" group-title="Беларусь",Беларусь 4 HD (Брест)
+http://cdn.klimedia.space/lb/Belarus4/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="minsk-tv" tvg-logo="https://epgx.site/p/pinsk-tv.png" group-title="Беларусь",Пинск/БелРос
+http://178.124.207.1:1780/tvp
+#EXTINF:-1 tvg-id="minsk-tv" tvg-logo="https://epgx.site/p/pinsk-tv.png" group-title="Беларусь",Пинск HD/БелРос
+http://178.124.207.1:1780/tvphd
+#EXTINF:-1 tvg-id="mir-kz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179914" group-title="Казахстан|Қазақстан",Мир 
+http://87.99.87.203:2007/channel/7f6edb44/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="19987" tvg-logo="https://epgx.site/p/duo7lv.png" group-title="Латвия|Latvija",Канал 7 Baltic
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43296/hls/pl.m3u8
+#EXTINF:-1 tvg-id="19987" tvg-logo="https://epgx.site/p/duo7lv.png" group-title="Латвия|Latvija",Канал 7 Baltic HD
+http://88.135.128.20:7272/OidghvyF6N7KlSd
+#EXTINF:-1 tvg-id="duo7ee" tvg-logo="https://telset.ee/userfiles/uploads/images/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB7.png" group-title="Эстония|Eesti",Канал 7 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/20079/index.m3u8
+#EXTINF:-1 tvg-id="2plus2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185108" group-title="Україна|Украина",2+2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/18657/hls/pl.m3u8
+#EXTINF:-1 tvg-id="2plus2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180174" group-title="Україна|Украина",2+2 HD
+http://ott.watch/stream/33QU9445PB/173.m3u8
+#EXTINF:-1 tvg-id="2plus2" tvg-logo="https://epgx.site/p/unian-tv.png" group-title="Україна|Украина",УНІАН
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54782/hls/pl.m3u8
+#EXTINF:-1 tvg-id="unian-tv" tvg-logo="https://epgx.site/p/unian-tv.png" group-title="Україна|Украина",УНІАН HD
+http://ott.watch/stream/33QU9445PB/341.m3u8
+#EXTINF:-1 tvg-id="unian-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210558" group-title="Україна|Украина",Суспільне Київ HD
+http://ott.watch/stream/33QU9445PB/439.m3u8
+#EXTINF:-1 tvg-id="xabar24" tvg-logo="https://epgx.site/p/xabar24.png" group-title="Новости",24KZ
+http://109.248.236.21:4433/udp/238.1.1.145:1234
+#EXTINF:-1 tvg-id="xabar24" tvg-logo="https://epgx.site/p/xabar24.png" group-title="Новости",24KZ HD
+https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184492" group-title="Новости",360 Новости
+http://188.113.190.15/226/mono.m3u8
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=182417" group-title="Новости",360 Новости HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://abcnews.al/wp-content/uploads/2023/03/cropped-cropped-Logo-Composite-1-copy.png" group-title="Новости",ABC News HD (Албания)
+http://109.236.44.157:2121/abc
+#EXTINF:-1 tvg-id="hlsproxy-50597" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg" group-title="Новости",ABC News HD (Австралия)
+http://158.101.214.187:8080/channel/n74a440c8/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/1229px-Aljazeera.svg.png" group-title="Новости",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/1229px-Aljazeera.svg.png" group-title="Новости",Al Jazeera Arabic HD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="Новости",Al Jazeera Balkans
+http://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="Новости",Al Jazeera Balkans HD
+http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="62985" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938" group-title="Новости",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-id="62985" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Aljazeera_eng.svg/revision/latest?cb=20120211104938" group-title="Новости",Al Jazeera English HD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Aljazeera_Mubasher.svg" group-title="Новости",Al Jazeera Mubasher
+http://live-hls-web-ajm.getaj.net/AJM/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Aljazeera_Mubasher.svg" group-title="Новости",Al Jazeera Mubasher HD
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://epgx.site/p/bbc.png" group-title="Новости",BBC News Europe
+http://85.49.100.235:5120/bysid/17130
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://epgx.site/p/bbc.png" group-title="Новости",BBC News Europe HD
+http://85.49.100.235:5122/bysid/5001
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/2560px-CNN_Brasil.svg.png" group-title="Новости",CNN Brasil HD
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/1000px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="Новости",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179767" group-title="Новости",CNN International
+http://87.99.87.203:2007/channel/700d971/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179767" group-title="Новости",CNN International HD
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn-turk" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179770" group-title="Новости",CNN Türk HD
+http://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=211856" group-title="Новости",Euronews
+http://87.99.87.203:2007/channel/n656697c0/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180006" group-title="Новости",RT
+http://188.113.190.15/12/mono.m3u8
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180006" group-title="Новости",RT HD
+http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176246" group-title="Новости",Sky News
+http://178.219.128.68:64889/SKYNEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_News_Arabia_logo.svg/2560px-Sky_News_Arabia_logo.svg.png" group-title="Новости",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176246" group-title="Новости",Sky News Australia
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176246" group-title="Новости",Tagesschau 24 HD
+http://158.101.194.132:8888/channel/n7fc877d4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172451" group-title="Новости",Вместе-РФ
+http://188.113.190.15/227/mono.m3u8
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172451" group-title="Новости",Вместе РФ HD
+http://cdn-01.bonus-tv.ru/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179468" group-title="Новости",Дождь
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181007" group-title="Новости",Дождь HD
+http://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187133" group-title="Новости",Известия
+http://92.242.110.52:9835/udp/238.1.11.50:1234
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=173268" group-title="Новости",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181151" group-title="Новости",ЛДПР ТВ
+http://188.113.190.15/211/mono.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187122" group-title="Новости",Москва 24
+http://92.242.110.52:9835/udp/238.1.9.22:1234
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179911" group-title="Новости",Мир 24
+http://92.242.110.52:9835/udp/238.1.9.21:1234
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179911" group-title="Новости",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179911" group-title="Новости",Мир 24 (Казахстан)
+http://87.99.87.203:2007/channel/n78afd762/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185271" group-title="Новости",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_0480.m3u8 
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210554" group-title="Новости",Настоящее Время HD
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/05/download-2.png" group-title="Новости",ОСН ТВ
+https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+#EXTINF:-1 tvg-id=" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/05/download-2.png" group-title="Новости",ОСН ТВ HD
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181400" group-title="Новости",Про Бизнес
+http://82.200.60.211:4022/udp/239.54.5.167:1224
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://epgx.site/p/rbk.png" group-title="Новости",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210525" group-title="Новости",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179886 group-title="Новости",Россия 24
+http://92.242.110.52:9835/udp/238.1.11.53:1234
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179886" group-title="Новости",Россия 24 International (Европа)
+http://46.45.158.8:8098/bysid/51009
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203162" group-title="Новости",Соловьёв.Live
+http://188.113.190.15/333/mono.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203162" group-title="Новости",Соловьёв.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/TASS_logo_2020.svg" group-title="Новости",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/TASS_logo_2020.svg" group-title="Новости",ТАСС HD
+http://cdn.klimedia.space/lb/tass/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="hlsproxy-466" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180527" group-title="Новости",Царьград
+#EXTVLCOPT:http-user-agent=tsargrad.tv
+https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-466" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180527" group-title="Новости",Царьград HD
+#EXTVLCOPT:http-user-agent=tsargrad.tv
+https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
+#EXTINF:-1 tvg-id="8kanal" tvg-logo="https://epgx.site/p/7d7.png" group-title="Развлекательные",8 канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="г" group-title="Развлекательные",8 канал International
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-id="7d7" tvg-logo="https://epgx.site/p/7d7.png" group-title="Развлекательные",Just TV
+http://85.49.100.235:5120/bysid/1712
+#EXTINF:-1 tvg-id="7d7" tvg-logo="https://epgx.site/p/7d7.png" group-title="Развлекательные",Just TV HD
+http://cdn.klimedia.space/lb/2822/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="super-baltic" tvg-logo="https://epgx.site/p/super-baltic.png" group-title="Развлекательные",Super+ HD
+http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 tvg-id="super-plus" tvg-logo="https://epgx.site/p/super-plus.png" group-title="Развлекательные",Super Baltic HD
+http://88.135.128.20:7272/OkcbfGtsHx1g4Vs
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214699" group-title="Развлекательные",Домашний
+http://94.228.204.166:8000/play/0014
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214674" group-title="Развлекательные",Домашний HD
+http://player.smotrim.ru/iframe/stream/live_id/64556?43e=5.m3u8
+#EXTINF:-1 tvg-id="domashny-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214700" group-title="Развлекательные",Домашний (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 tvg-id="domashny-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214701" group-title="Развлекательные",Домашний (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 tvg-id="domashny-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214702" group-title="Развлекательные",Домашний (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214703" group-title="Развлекательные",Домашний International
+http://87.99.87.203:2007/channel/n2949e07e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184952" group-title="Развлекательные",КВН ТВ
+http://92.242.110.52:9835/udp/238.1.6.8:1234
+#EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://epgx.site/p/tnt-kz.png" group-title="Развлекательные",КомедиКазахстан 
+http://109.248.236.21:4433/udp/238.1.1.159:1234
+#EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://epgx.site/p/tnt-kz.png" group-title="Развлекательные",КомедиКазахстан HD
+http://109.248.236.21:4433/udp/238.1.1.191:1234
+#EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://epgx.site/p/ntv-amerika.png" group-title="Развлекательные",НТВ-Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180474" group-title="Развлекательные",Перец International
+http://87.76.32.36:9106/udp/238.1.1.118:1234
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=175099" group-title="Россия",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=175099" group-title="Россия",Продвижение (+4)
+http://81.28.217.78:4022/udp/239.211.211.146:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179928" group-title="Развлекательные",Пятница! (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179928" group-title="Развлекательные",Пятница!
+http://92.242.110.52:9835/udp/238.1.11.46:1234
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179928" group-title="Развлекательные",Пятница! HD
+http://158.101.214.187:8080/channel/n50d0363a/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179928" group-title="Развлекательные",Пятница! (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_1.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187746" group-title="Развлекательные",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187746 group-title="Развлекательные",Пятница! HD (+2)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl3" tvg-logo="https://epgx.site/p/piatnica-pl3.png" group-title="Развлекательные",Пятница! (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_3.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188287" group-title="Развлекательные",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188287" group-title="Развлекательные",Пятница! HD (+4)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/friday4h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179928" group-title="Развлекательные",Пятница! (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179928" group-title="Развлекательные",Пятница! (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188288" group-title="Развлекательные",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188288" group-title="Развлекательные",Пятница! HD (+7)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/friday7h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188094" group-title="Развлекательные",Пятница! International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-id="piantica-kz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188094" group-title="Развлекательные",Пятница! International (Казахстан)
+http://87.76.32.36:9106/udp/238.1.1.192:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184940" group-title="Россия",СТС (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184940" group-title="Россия",СТС
+http://92.242.110.52:9835/udp/238.1.11.34:1234
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187035" group-title="Россия",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184940" group-title="Россия",СТС (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_1.m3u8
+#EXTINF:-1 tvg-id="sts-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188281" group-title="Россия",СТС (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184940" group-title="Россия",СТС (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_3.m3u8
+#EXTINF:-1 tvg-id="sts-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188282" group-title="Россия",СТС (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184940" group-title="Россия",СТС (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184940" group-title="Россия",СТС (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
+#EXTINF:-1 tvg-id="sts-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188283" group-title="Россия",СТС (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=200563;image" group-title="Россия",СТС International
+https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214873" group-title="Развлекательные",ТВ3 (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214873" group-title="Развлекательные",ТВ-3
+http://92.242.110.52:9835/udp/238.1.11.45:1234
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=217530" group-title="Развлекательные",ТВ-3 HD
+http://158.101.214.187:8080/channel/n537844e4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214873" group-title="Развлекательные",ТВ-3 (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215688" group-title="Развлекательные",ТВ-3 (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215688" group-title="Развлекательные",ТВ-3 HD (+2)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl3" tvg-logo="https://epgx.site/p/tv3-ru-pl3.png" group-title="Развлекательные",ТВ-3 (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215689" group-title="Развлекательные",ТВ-3 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215689" group-title="Развлекательные",ТВ-3 HD (+4)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tv3h4/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214873" group-title="Развлекательные",ТВ-3 (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214873" group-title="Развлекательные",ТВ-3 (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215690" group-title="Развлекательные",ТВ-3 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215690" group-title="Развлекательные",ТВ-3 HD (+7)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tv3h7/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv3-int" tvg-logo="https://epgx.site/p/tv3-int.png" group-title="Развлекательные",ТВ-3 International
+http://87.76.32.36:9100/udp/238.1.0.125:2000
+#EXTINF:-1 tvg-id="tv3-by" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180666" group-title="Развлекательные",ТВ-3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210327" group-title="Развлекательные",Твое ТВ HD
+https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214494" group-title="Развлекательные",Твое ТВ - Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199760" group-title="Развлекательные",ТНТ (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199760" group-title="Развлекательные",ТНТ
+http://92.242.110.52:9835/udp/238.1.1.26:1234
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199761" group-title="Развлекательные",ТНТ HD
+http://92.242.110.52:9835/udp/238.1.4.4:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199760" group-title="Развлекательные",ТНТ (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_1.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199762" group-title="Развлекательные",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199762" group-title="Развлекательные",ТНТ HD (+2)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="tnt-pl3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199760" group-title="Развлекательные",ТНТ (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_3.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199763" group-title="Развлекательные",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_4.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199763" group-title="Развлекательные",ТНТ HD (+4)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199760" group-title="Развлекательные",ТНТ (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199760" group-title="Развлекательные",ТНТ (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199764" group-title="Развлекательные",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199764" group-title="Развлекательные",ТНТ HD (+7)
+https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="tnt-int-by" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199766" group-title="Развлекательные",ТНТ International HD (Беларусь)
+http://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199766" group-title="Развлекательные",ТНТ International (Европа)
+http://85.187.13.40:18000/tntint
+#EXTINF:-1 tvg-id="tnt-int-cis" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=199766" group-title="Развлекательные",ТНТ International (СНГ)
+http://109.248.236.21:4433/udp/238.1.1.15:1234
+#EXTINF:-1 tvg-id="tnt4 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=211102" group-title="Развлекательные",ТНТ4
+http://92.242.110.52:9835/udp/238.1.9.15:1234
+#EXTINF:-1 tvg-id="tnt4" tvg-logo=""https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=211298" group-title="Развлекательные",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 tvg-id="tnt4-international" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=211102" group-title="Развлекательные",ТНТ4 International
+http://87.99.87.203:2007/channel/6e6f5aad/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167572" group-title="Развекательные",Че! (-1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/zabava/CH_CHE-1.m3u8
+#EXTINF:-1 tvg-id="che" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167572" group-title="Развекательные",Че!
+http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167572" group-title="Развекательные",Че! (+1)
+http://dmi3y-tv.ru/hls/zabava/CH_CHE_1.m3u8
+#EXTINF:-1 tvg-id="che-pl2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167573" group-title="Развекательные",Че! (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167572" group-title="Развекательные",Че! (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/zabava/CH_CHE_3.m3u8
+#EXTINF:-1 tvg-id="che-pl4" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167574" group-title="Развекательные",Че! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/zabava/CH_CHE_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167572" group-title="Развекательные",Че! (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/zabava/CH_CHE_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167572" group-title="Развекательные",Че! (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/zabava/CH_CHE_6.m3u8
+#EXTINF:-1 tvg-id="che-pl7" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=167575" group-title="Развекательные",Че! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/video_800x450_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="minsk-tv" tvg-logo="https://epgx.site/p/yasnae.png" group-title="Развлекательные",ЯСНАе TV HD
+http://158.101.214.187:8080/channel/n4d58ddc7/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=184327" group-title="Кино и сериалы",.black
+http://92.242.110.52:9835/udp/238.1.8.3:1234
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210244" group-title="Кино и сериалы",.black HD 
+http://ott.watch/stream/33QU9445PB/263.m3u8
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=184326" group-title="Кино и сериалы",.red
+http://92.242.110.52:9835/udp/238.1.11.52:1234
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183401" group-title="Кино и сериалы",.red HD
+http://91.205.199.7:8000/play/a0pk
+#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=184328" group-title="Кино и сериалы",.sci-fi
+http://92.242.110.52:9835/udp/238.1.8.18:1234
+#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210269" group-title="Кино и сериалы",.sci-fi HD
+http://ott.watch/stream/33QU9445PB/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180067" group-title="Кино и сериалы",43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="4k-ruskino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=215552;image" group-title="Кино и сериалы",4К Русское кино
+http://158.101.214.187:8080/channel/n3dc998bf/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="bolt-ru" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180015" group-title="Кино и сериалы",Bolt
+http://188.113.190.15/84/mono.m3u8
+#EXTINF:-1 tvg-id="bolt-ru" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=173267" group-title="Кино и сериалы",Bolt HD
+http://cdn.klimedia.space/lb/BOLTHD/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="16046" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183680" group-title="Кино и сериалы",Dosug TV Marvel HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/16046/hls/pl.m3u8
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="Кино и сериалы",FAN
+http://92.242.110.52:9835/udp/238.1.7.6:1234
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="Кино и сериалы",FAN HD
+http://87.99.87.203:2007/channel/145aa384/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="filmzone" tvg-logo="https://epgx.site/p/filmzone.png" group-title="Кино и сериалы",FilmZone HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19510/hls/pl.m3u8
+#EXTINF:-1 tvg-id="filmzone-plus-lv" tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Кино и сериалы",FilmZone (Латвия)
+http://88.135.128.20:7272/ko7BKj9NV0ZCX2C
+#EXTINF:-1 tvg-id="filmzone-plus-lv" tvg-logo="https://epgx.site/p/filmzone-plus.png" group-title="Кино и сериалы",FilmZone HD (Латвия)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53827/hls/pl.m3u8
+#EXTINF:-1 tvg-id="filmzone-plus-lv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210255" group-title="Кино и сериалы",FilmZone+ HD (Латвия)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/19521/hls/pl.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=209823" group-title="Кино и сериалы",FlixSnip
+http://92.242.110.52:9835/udp/238.1.8.38:1234
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210256" group-title="Кино и сериалы",FlixSnip HD
+http://87.99.87.203:2007/channel/n34b5b21b/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="hollywood" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187151" group-title="Кино и сериалы",Hollywood
+http://92.242.110.52:9835/udp/238.1.11.11:1234
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187152" group-title="Кино и сериалы",Hollywood HD
+http://92.242.110.52:9835/udp/238.1.3.3:1234
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://epgx.site/p/horrortv.png" group-title="Кино и сериалы",Horror TV
+http://158.101.214.187:8080/channel/760fab38/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",IPTVPLAY Promo HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",IPTVPLAY Память HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",IPTVPLAY Ужастик HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",IPTVPLAY Фантастика HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="kinojam1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",KinoJam 1
+http://87.99.87.203:2007/channel/1469cc2d/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="kinojam1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",KinoJam 1 HD
+http://cdn.klimedia.space/lb/Kinojam_1/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190081" group-title="Кино и сериалы",KinoJam 2
+http://87.99.87.203:2007/channel/1469cc2e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="kinojam2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190081" group-title="Кино и сериалы",KinoJam 2 HD
+http://cdn.klimedia.space/lb/Kinojam_2/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="novellatv" tvg-logo="https://epgx.site/p/novellatv.png" group-title="Кино и сериалы",Novella TV
+http://158.101.214.187:8080/channel/nfe43a2f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://epgx.site/p/plan-b.png" group-title="Кино и сериалы",Plan B
+http://87.99.87.203:2007/channel/n2a98e9f5/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=186695" group-title="Кино и сериалы",Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=200613" group-title="Кино и сериалы",Start Air
+http://92.242.110.52:9835/udp/238.1.7.28:1234
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=200613" group-title="Кино и сериалы",Start Air HD
+http://87.99.87.203:2007/channel/733c73be/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="start-world" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=200614" group-title="Кино и сериалы",Start World
+http://188.113.190.15/111/mono.m3u8
+#EXTINF:-1 tvg-id="start-world" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=200614" group-title="Кино и сериалы",Start World HD
+http://87.99.87.203:2007/channel/n3b170e8a/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=216311" group-title="Кино и сериалы",TVRUS
+http://85.49.100.235:5120/bysid/1708
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=216312" group-title="Кино и сериалы",TVRUS+
+http://85.49.100.235:5120/bysid/1708
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 1
+https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 2
+https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 3
+https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 4
+https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 5
+https://ipv4.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 6
+https://ipv4.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 7
+https://ipv4.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 8
+https://ipv4.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 9
+https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 10
+https://ipv4.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 11
+https://ipv4.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 12
+https://ipv4.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 13
+https://ipv4.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 14
+https://ipv4.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 15
+https://ipv4.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 16
+https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 17
+https://ipv4.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 18
+https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 20
+https://ipv4.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 21
+https://ipv4.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 22
+https://ipv4.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 23
+https://ipv4.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 24
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 25
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 26
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 27
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 28
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 29
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 30
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 31
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 32
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 33
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 34
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jV5Yjwv/image-21.png" group-title="Кино и сериалы",Ushba TV Кинозал 35
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a3/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212343" group-title="Кино и сериалы",Viasat Kino HD
+http://cdn.klimedia.online/lb/TV-1000-HD-CEE/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212344" group-title="Кино и сериалы",Viasat Kino Action HD
+http://cdn.klimedia.online/lb/ViasatKinoActionHD/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212344" group-title="Кино и сериалы",Viasat Kino Action HD (Латвия)
+http://88.135.128.20:7272/ko7BKj9NV0ZCX2C
+#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212345" group-title="Кино и сериалы",Viasat Kino Comedy HD
+http://cdn.klimedia.online/lb/ViP-Comedy-HD-CEE/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212345" group-title="Кино и сериалы",Viasat Kino Comedy HD (Латвия)
+http://88.135.128.20:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 tvg-id="vip-megahit-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212346" group-title="Кино и сериалы",Viasat Kino Megahit HD
+http://cdn.klimedia.online/lb/ViP-Megahit-HD-CEE/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212347" group-title="Кино и сериалы",Viasat Kino World HD
+http://cdn.klimedia.online/lb/TV-1000-World-Kino-HD/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="viasat-serial" tvg-logo="https://epgx.site/p/viasat-serial.png" group-title="Кино и сериалы",Viasat Serial
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/72094/hls/pl.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212330" group-title="Кино и сериалы",viju TV1000
+http://92.242.110.52:9835/udp/238.1.8.23:1234
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=213339" group-title="Кино и сериалы",viju TV1000 HD
+http://87.99.87.203:2007/channel/3329059f/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212331" group-title="Кино и сериалы",viju TV1000 Action
+http://92.242.110.52:9835/udp/238.1.8.24:1234
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=213338" group-title="Кино и сериалы",viju TV1000 Action HD
+http://87.99.87.203:2007/channel/n4059fafd/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=217591" group-title="Кино и сериалы",viju TV1000 Новелла HD
+http://158.101.214.187:8080/channel/n51877d66/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212332" group-title="Кино и сериалы",viju TV1000 Русское
+http://92.242.110.52:9835/udp/238.1.8.22:1234
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=213340" group-title="Кино и сериалы",viju TV1000 Русское HD
+http://87.99.87.203:2007/channel/47c5ae88/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="blokbaster" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210279" group-title="Кино и сериалы",Арсенал HD
+http://87.99.87.203:2007/channel/n64ca4aed/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=184152" group-title="Кино и сериалы",Блокбастер
+http://158.101.214.187:8080/channel/n47f7e6f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210282" group-title="Кино и сериалы",Блокбастер HD
+http://87.99.87.203:2007/channel/4e8098b0/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210301" group-title="Кино и сериалы",День Победы HD 
+http://158.101.214.187:8080/channel/n6557916/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210283" group-title="Кино и сериалы",Душевное HD
+http://87.99.87.203:2007/channel/n23e1be1d/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179978" group-title="Кино и сериалы",Дом кино
+http://92.242.110.52:9835/udp/238.1.11.26:1234
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179979" group-title="Кино и сериалы",Дом кино Премиум HD
+http://92.242.110.52:9835/udp/238.1.4.5:1234
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=169072" group-title="Кино и сериалы",Дом кино Премиум
+http://otv.wotom.net:4433/udp/238.1.1.176:1234
+#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://epgx.site/p/zal-01-tricolor.png" group-title="Кино и сериалы",Зал 1 HD
+http://ditv.ydns.eu:8888/channel/n15142161/index.m3u8?q=343108ffe769c7cbfbb5588f33391ad8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180754" group-title="Кино и сериалы",Иллюзион+
+http://92.242.110.52:9835/udp/238.1.11.15:1234
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210311" group-title="Кино и сериалы",Иллюзион+ HD
+http://cdn.klimedia.space/lb/ ILLUSION_PLUS_HD/index.m3u8?token=klimedia.space:c2FtYWxldDE5Nzk6MDc3Nzg1NTIz
+#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=188797" group-title="Кино и сериалы",Камеди
+http://158.101.214.187:8080/channel/2076e173/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210284" group-title="Кино и сериалы",Камеди HD
+http://87.99.87.203:2007/channel/n1a873ff2/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="87383" tvg-logo="https://telset.ee/userfiles/uploads/images/K7%2B_LOGO_2.png" group-title="Кино и сериалы",Канал 7+ HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/87383/hls/pl.m3u8
+#EXTINF:-1 tvg-id="kino7-lv" tvg-logo="https://epgx.site/p/kino7-lv.png" group-title="Кино и сериалы",Кино 7 HD
+http://88.135.128.20:7272/Hdyt7wbXlSuwOpq
+#EXTINF:-1 tvg-id="kinoboevik-kz" tvg-logo="https://epgx.site/p/kinoboevik-kz.png" group-title="Кино и сериалы",Кинобоевик HD
+http://87.99.87.203:2007/channel/18fa8a11/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217018" group-title="Кино и сериалы",Кинозал! Bond 007 HD
+http://w8jxz0uh.ottclub.xyz/iptv/TUX9UUZ5ZAMHBC/31715/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=169965" group-title="Кино и сериалы",Кинопоказ
+http://91.207.114.209:5000/c28
+#EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=169841;image " group-title="Кино и сериалы",Кинопоказ HD
+http://185.134.36.46:4022/udp/234.0.0.209:2000
+#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179894" group-title="Кино и сериалы",Киносерия
+http://92.242.110.52:9835/udp/238.1.6.13:1234
+#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181375" group-title="Кино и сериалы",Киносерия HD
+http://188.113.190.15/336/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179894" " group-title="Кино и сериалы",Киносерия International
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210286" group-title="Кино и сериалы",Комедийное HD
+https://streamer1.connectto.com/519/mono.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187136" group-title="Кино и сериалы",Комедия
+http://92.242.110.52:9835/udp/238.1.11.41:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=209843" group-title="Кино и сериалы",Кошмар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210528" group-title="Кино и сериалы",Криминальное HD
+http://87.99.87.203:2007/channel/7cbfee5f/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="lavstori" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215274" group-title="Кино и сериалы",Лавстори HD
+http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210287" group-title="Кино и сериалы",Любимое HD
+http://87.99.87.203:2007/channel/55c93d7e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="http://epg.cdntv.online/img/127.png" group-title="Кино и сериалы",Мир сериала
+http://otv.wotom.net:4433/udp/238.1.1.136:1234
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=211521" group-title="Кино и сериалы",Мир сериала HD
+http://cdn.klimedia.space/lb/mirserial/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="doverie" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179992" group-title="Кино и сериалы",Москва Доверие
+http://92.242.110.52:9835/udp/238.1.7.20:1234
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=169830" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
+http://92.242.110.52:9835/udp/238.1.11.51:1234
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=204994" group-title="Кино и сериалы",Мосфильм. Золотая коллекция HD
+http://87.99.87.203:2007/channel/2bac7f96/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=169830" group-title="Кино и сериалы",Мосфильм. Золотая коллекция HD (+4)
+http://176.196.166.171:81/udp/239.255.43.20:1234
+#EXTINF:-1 tvg-id="nash-kinopokaz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=174895" group-title="Кино и сериалы",Наш Кинопоказ
+http://158.101.214.187:8080/channel/n1fc19d48/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210290" group-title="Кино и сериалы",Наш Кинопоказ HD
+http://87.99.87.203:2007/channel/5c22569f/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nashehd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210288" group-title="Кино и сериалы",Наше HD
+http://87.99.87.203:2007/channel/n78b4a99f/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=191648" group-title="Кино и сериалы",Наше мужское
+http://158.101.214.187:8080/channel/n33a77f41/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210289" group-title="Кино и сериалы",Наше мужское HD
+http://87.99.87.203:2007/channel/n383d9e5e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179902" group-title="Кино и сериалы",Наше новое кино
+http://92.242.110.52:9835/udp/238.1.6.21:1234
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181379" group-title="Кино и сериалы",Наше новое кино HD
+http://188.113.190.15/337/mono.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://epgx.site/p/nst.png" group-title="Кино и сериалы",НСТ
+http://92.242.110.52:9835/udp/238.1.11.29:1234
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176056" group-title="Кино и сериалы",НТВ Сериал
+http://92.242.110.52:9835/udp/238.1.7.25:1234
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210837" group-title="Кино и сериалы",НТВ Сериал HD
+http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187615" group-title="Кино и сериалы",НТВ Хит
+http://92.242.110.52:9835/udp/238.1.7.27:1234
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210839" group-title="Кино и сериалы",НТВ Хит HD
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210291" group-title="Кино и сериалы",Остросюжетное HD
+http://87.99.87.203:2007/channel/790108dc/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180216" group-title="Кино и сериалы",Победа
+http://92.242.110.52:9835/udp/238.1.11.48:1234
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180215" group-title="Кино и сериалы",Победа HD
+http://cdn.klimedia.space/lb/Pobeda/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210292" group-title="Кино и сериалы",Премиальное HD
+http://87.99.87.203:2007/channel/n381462cc/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215254" group-title="Кино и сериалы",Премиальное HD (+4)
+http://87.99.87.203:2007/channel/n499fb5dc/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=191122" group-title="Кино и сериалы",Про любовь
+http://158.101.214.187:8080/channel/573bb5bd/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210293" group-title="Кино и сериалы",Про Любовь HD
+http://87.99.87.203:2007/channel/n5bf0fb1c/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180695" group-title="Кино и сериалы",Ретро
+http://176.113.48.221:8986/142
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179896" group-title="Кино и сериалы",Родное кино
+http://92.242.110.52:9835/udp/238.1.6.25:1234
+#EXTINF:-1 tvg-id="romantichnoe-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210294" group-title="Кино и сериалы",Романтичное HD
+http://87.99.87.203:2007/channel/n5fd2cd7/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184511" group-title="Кино и сериалы",Русский бестселлер
+http://92.242.110.52:9835/udp/238.1.7.29:1234
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183971" group-title="Кино и сериалы",Русский детектив
+http://92.242.110.52:9835/udp/238.1.7.1:1234
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180753" group-title="Кино и сериалы",Русский иллюзион
+http://92.242.110.52:9835/udp/238.1.11.14:1234
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210312" group-title="Кино и сериалы",Русский иллюзион HD
+http://cdn.klimedia.space/lb/RU_ILLUSION_HD/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183783" group-title="Кино и сериалы",Русский роман
+http://92.242.110.52:9835/udp/238.1.7.30:1234
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=204993" group-title="Кино и сериалы",Русский роман HD
+http://188.113.190.15/221/mono.m3u8
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=209189" group-title="Кино и сериалы",Сапфир
+http://92.242.110.52:9835/udp/238.1.11.10:1234
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=209192" group-title="Кино и сериалы",Сапфир HD
+http://87.99.87.203:2007/channel/45e82860/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="strk" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187260" group-title="Кино и сериалы",СТРК
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+#EXTINF:-1 tvg-id="strk" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187260" group-title="Кино и сериалы",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="sov-kinklass" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=215566;image," group-title="Кино и сериалы",Coвeтcкaя Кинoклacикa HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83621/hls/pl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190755" group-title="Кино и сериалы",Фантастика 2.0 HD
+#EXTVLCOPT:http-user-agent=goodgame.ru
+http://hlss.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210295" group-title="Кино и сериалы", Хит HD
+http://87.99.87.203:2007/channel/n16e794f8/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210296" group-title="Кино и сериалы",Шокирующее HD
+http://87.99.87.203:2007/channel/n4773cab1/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210296" group-title="Кино и сериалы",Шокирующее HD (+4)
+http://87.99.87.203:2007/channel/n478e7536/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="" tvg-logo="http://555hf.tv/img/common/555hf-logo.png" group-title="Познавательные",555 Hunt Fishing TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://555hf.tv/img/common/555hf-logo.png" group-title="Познавательные",555 Hunt Fishing TV HD
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+#EXTINF:-1 tvg-id="curiosity-stream" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=211710" group-title="Познавательные",Curiosity Stream HD
+http://109.248.236.21:4433/udp/238.1.1.112:1234
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187123 group-title="Познавательные",Discovery Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187124" group-title="Познавательные",Discovery Channel HD
+http://91.207.114.209:5000/c146
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179579" group-title="Познавательные",Discovery Science
+http://ott.watch/stream/33QU9445PB/146.m3u8
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180995" group-title="Познавательные",Discovery Science HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/59942/hls/pl.m3u8
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://epgx.site/p/galaxy-tv.png" group-title="Познавательные",Galaxy
+http://92.242.110.52:9835/udp/238.1.9.10:1234
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187371" group-title="Познавательные",Galaxy HD
+http://158.101.214.187:8080/channel/61c43433/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="history-ru" tvg-logo="https://epgx.site/p/history-eu.png" group-title="Познавательные",History HD
+http://87.99.87.203:2007/channel/n49ac6ef8/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="history-eu" tvg-logo="https://epgx.site/p/history-eu.png" group-title="Познавательные",History CEE HD
+http://88.135.128.20:7272/PK41HvJyzlbR8XZ
+#EXTINF:-1 tvg-id="minimax-experiment" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=204450" group-title="Познавательные",MM Experiment HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/19412/index.m3u8
+#EXTINF:-1 tvg-id="silkway" tvg-logo="https://epgx.site/p/silkway.png" group-title="Познавательные",Silk Way HD
+http://188.113.190.15/163/mono.m3u8
+#EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://epgx.site/p/sochi-live.png" group-title="Познавательные",Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180089" group-title="Познавательные",Sochi Live HD
+https://serv30.vintera.tv/sochilive_site/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=186784" group-title="Познавательные",VF Авто HD
+http://345f89f7.ottrast.com/iptv/TUX9UUZ5ZAMHBC/15511/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179950" group-title="Познавательные",Viasat Explore CEE
+http://cdn.klimedia.online/lb/ViasatExploreCEE/index.m3u8?token=klimedia.space:c2VtYTE5NzQ6c2VtYTE5NzQ=
+#EXTINF:-1 tvg-id="viasat-explore-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179950" group-title="Познавательные",Viasat Explore CEE HD
+http://cdn.klimedia.online/lb/ViasatExplore/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="history-viasat-en"" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179951" group-title="Познавательные",Viasat History CEE HD
+http://cdn.klimedia.online/lb/VIASAT_HISTORY_HD_CEE/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="viasat-history-ua" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179951" group-title="Познавательные",Viasat History HD (Україна)
+http://de.seetv.cc/play/491/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179952" group-title="Познавательные",Viasat Nature CEE
+http://de.seetv.cc/play/8851/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-cee" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179952" group-title="Познавательные",Viasat Nature CEE HD
+http://cdn.klimedia.online/lb/Viasat_Nature_CEE/index.m3u8?token=klimedia.space:S3VsbG86S1V3dzB6THM=
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179472" group-title="Познавательные",АвтоПлюс
+http://193.201.98.10:5000/c110
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187836" group-title="Познавательные",АвтоПлюс HD
+http://158.101.214.187:8080/channel/69e588d4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179880" group-title="Познавательные",Бобёр 
+http://92.242.110.52:9835/udp/238.1.11.24:1234
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180070" group-title="Познавательные",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210298" group-title="Познавательные",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=171958" group-title="Познавательные",Диалоги о рыбалке
+http://92.242.110.52:9835/udp/238.1.7.14:1234
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210302" group-title="Познавательные",Диалоги о рыбалке HD
+http://strm.yandex.ru/kal/dialogi/dialogi1080.m3u8
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188088" group-title="Познавательные",Дикая Рыбалка HD
+http://31.148.6.4:10243/index.m3u8
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179606" group-title="Познавательные",Загородная жизнь
+http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=172452" group-title="Познавательные",Загородная жизнь HD 
+http://87.99.87.203:2007/channel/n4eb52a92/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180618" group-title="Познавательные",Загородный
+http://87.99.87.203:2007/channel/n20408067/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188330" group-title="Познавательные",Загородный Int. HD
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176730" group-title="Познавательные",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210310" group-title="Познавательные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179474" group-title="Познавательные",Кто есть кто
+http://92.242.110.52:9835/udp/238.1.6.15:1234
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=217594" group-title="Познавательные",Кухня
+http://92.242.110.52:9835/udp/238.1.6.16:1234
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=215561;image" group-title="Познавательные",Кухня HD
+http://146.158.0.56/KuhnyaTV/mono.m3u8
+#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215270" group-title="Познавательные",Лапки.Live
+http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=215270" group-title="Познавательные",Лапки.Live HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63197/hls/pl.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203771 group-title="Познавательные",Моя планета
+http://92.242.110.52:9835/udp/238.1.9.25:1234
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203772" group-title="Познавательные",Моя планета HD 
+http://87.99.87.203:2007/channel/17b213b0/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179929" group-title="Познавательные",Ностальгия
+http://92.242.110.52:9835/udp/238.1.6.22:1234
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187132" group-title="Познавательные",Наука
+http://92.242.110.52:9835/udp/238.1.9.4:1234
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187329" group-title="Познавательные",Наука HD
+http://87.99.87.203:2007/channel/5bb5dcb1/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=205586" group-title="Познавательные",Наша тема
+http://188.113.190.15/125/mono.m3u8
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=205587" group-title="Познавательные",Наша тема HD
+http://live-1.otcnet.ru/nashatema1/index.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epgx.site/p/neizvestnaya-rosia.png" group-title="Познавательные",Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://epgx.site/p/neizvestnaya-rosia.png" group-title="Познавательные",Неизвестная Россия HD
+http://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176055" group-title="Познавательные",НТВ Право
+http://92.242.110.52:9835/udp/238.1.7.24:1234
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214033" group-title="Познавательные",Океан
+http://188.113.190.15/52/mono.m3u8
+#EXTINF:-1 tvg-id="oruzhie" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181004" group-title="Познавательные",Оружие
+http://188.113.190.15/155/mono.m3u8
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180833" group-title="Познавательные",Охота и рыбалка
+http://92.242.110.52:9835/udp/238.1.9.7:1234
+#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181011" group-title="Познавательные",Охотник и рыболов HD
+http://87.99.87.203:2007/channel/18be3759/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187399" group-title="Познавательные",Охотник и рыболов International HD
+http://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus1080.m3u8
+#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210555" group-title="Познавательные",Приключения HD
+http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=168088" group-title="Познавательные",Рыбалка и Охота
+http://86.57.178.105:9952/oh
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214591" group-title="Познавательные",Рыболов
+http://91.207.114.209:5000/c109
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187146" group-title="Познавательные",Усадьба
+http://92.242.110.52:9835/udp/238.1.8.47:1234
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180759" group-title="Познавательные",Точка отрыва
+http://92.242.110.52:9835/udp/238.1.8.46:1234
+#EXTINF:-1 tvg-id="trofey" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=182767" group-title="Познавательные",Трофей HD
+http://88.135.128.20:7272/LqlrRf78B9OzD2B
+#EXTINF:-1 tvg-id="uspex" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=181180" group-title="Познавательные",Успех
+http://146.158.0.56/Uspeh/mono.m3u8
+#EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=173270" group-title="Познавательные",Центральное телевидение
+http://188.113.190.15/173/mono.m3u8
+#EXTINF:-1 tvg-id="tvplay-sports" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214601" group-title="Спорт",Go3 Sport 1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43626/hls/pl.m3u8
+#EXTINF:-1 tvg-id="38745" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214601" group-title="Спорт",Go3 Sport 1 (Латвия)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38745/hls/pl.m3u8
+#EXTINF:-1 tvg-id="tvplay-sports-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214602" group-title="Спорт",Go3 Sport 2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/25983/hls/pl.m3u8
+#EXTINF:-1 tvg-id="36634" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214602" group-title="Спорт",Gl3 Sport 2 (Латвия)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36634/hls/pl.m3u8
+#EXTINF:-1 tvg-id="tv3-sport-3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214603" group-title="Спорт",Go3 Sport 3 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/53297/hls/pl.m3u8
+#EXTINF:-1 tvg-id="58497" tvg-logo="http://lis.tvdosug.net/img/channel_icons/58497.png" group-title="Спорт",Go3 Sport 4 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/58497/hls/pl.m3u8
+#EXTINF:-1 tvg-id="tv3-sport-open" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214604" group-title="Спорт",Go3 Sport Open HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63984/hls/pl.m3u8
+#EXTINF:-1 tvg-id="43824" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=214604" group-title="Спорт",Go3 Sport Open (Латвия)
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43824/hls/pl.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179869" group-title="Спорт",Eurosport 1
+http://otv.wotom.net:4433/udp/238.1.1.114:1234
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185087" group-title="Спорт",Eurosport 1 HD
+http://88.135.128.20:7272/mlR5cGNUsvBxcv8
+#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-72" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185087",Eurosport 1 HD (Польша)
+http://158.101.214.187:8080/channel/n7bcd1981/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185235" group-title="Спорт",Eurosport 2
+http://otv.wotom.net:4433/udp/238.1.1.115:1234
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185088" group-title="Спорт",Eurosport 2 HD
+http://193.201.98.10:5000/c154
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-8270" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185088",Eurosport 2 HD (Польша)
+http://158.101.214.187:8080/channel/n46e6de40/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="kxl" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=184915" group-title="Спорт",KHL
+http://193.201.98.10:5000/c108
+#EXTINF:-1 tvg-id="kxl" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210257" group-title="Спорт",KHL HD
+http://158.101.214.187:8080/channel/n6d789d87/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210258" group-title="Спорт",KHL Prime HD
+http://158.101.214.187:8080/channel/50aa5898/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216305" group-title="Спорт",Okko Спорт HD
+http://158.101.194.132:8888/channel/79f180dd/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
+#EXTINF:-1 tvg-id="7494" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217705" group-title="Спорт",Setanta Event 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14180/index.m3u8
+#EXTINF:-1 tvg-id="7495" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217706" group-title="Спорт",Setanta Event 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14181/index.m3u8
+#EXTINF:-1 tvg-id="7496" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217707" group-title="Спорт",Setanta Event 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14183/index.m3u8
+#EXTINF:-1 tvg-id="7497" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217708" group-title="Спорт",Setanta Event 4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14182/index.m3u8
+#EXTINF:-1 tvg-id="7498" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217709" group-title="Спорт",Setanta Event 5 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14184/index.m3u8
+#EXTINF:-1 tvg-id="7499" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217710" group-title="Спорт",Setanta Event 6 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14185/index.m3u8
+#EXTINF:-1 tvg-id="7500" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217711" group-title="Спорт",Setanta Event 7 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14186/index.m3u8
+#EXTINF:-1 tvg-id="7501" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217712" group-title="Спорт",Setanta Event 8 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14187/index.m3u8
+#EXTINF:-1 tvg-id="7502" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217713" group-title="Спорт",Setanta Event 9 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14188/index.m3u8
+#EXTINF:-1 tvg-id="7503" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217714" group-title="Спорт",Setanta Event 10 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14189/index.m3u8
+#EXTINF:-1 tvg-id="7504" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217715" group-title="Спорт",Setanta Event 11 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14190/index.m3u8
+#EXTINF:-1 tvg-id="7505" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217716" group-title="Спорт",Setanta Event 12 HD
+http://rhsbjv7k.tvclub.xyz/iptv/PW3UZ2BH8MCB5E/14191/index.m3u8
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203769" group-title="Спорт",Setanta Sports 1 HD
+http://158.101.214.187:8080/channel/343fa46b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-52599" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203769",Setanta Sports 1 Georgia
+http://158.101.214.187:8080/channel/4265e235/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203769" group-title="Спорт",Setanta Sports 1 Qazaqstan
+http://109.248.236.21:4433/udp/238.1.1.162:1234
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203770" group-title="Спорт",Setanta Sports 2 HD
+http://158.101.214.187:8080/channel/4c4bbede/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203770" group-title="Спорт",Setanta Sports 2 Georgia
+http://158.101.214.187:8080/channel/n428b5579/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=203770" group-title="Спорт",Setanta Sports 2 Qazaqstan
+http://109.248.236.21:4433/udp/238.1.1.163:1234
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214519" group-title="Спорт",Setanta Qazaqstan
+http://109.248.236.21:4433/udp/238.1.1.161:1234
+#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210532" group-title="Спорт",Setanta Sports Ukraine HD
+http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210533" group-title="Спорт",Setanta Sports+ Ukraine HD
+http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185686" group-title="Спорт",Telesport
+#EXTVLCOPT:http-referrer=https://tele-sport.ru/pryamaya-translyatsiya-telekanala-telesport
+https://tc2.tele-sport.ru/abr/main/live/main_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185686" group-title="Спорт",Telesport HD
+#EXTVLCOPT:http-referrer=https://tele-sport.ru/pryamaya-translyatsiya-telekanala-telesport
+https://tc2.tele-sport.ru/abr/main/live/main_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="upltv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217721" group-title="Спорт",UPL.TV HD 
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/98220/hls/pl.m3u8
+#EXTINF:-1 tvg-id="upltv1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217717" group-title="Спорт",UPL.TV 1 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/99630/hls/pl.m3u8
+#EXTINF:-1 tvg-id="upltv2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217718" group-title="Спорт",UPL.TV 2 HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/99372/hls/pl.m3u8
+#EXTINF:-1 tvg-id="upltv3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217719" group-title="Спорт",UPL.TV 3 HD 
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/99638/hls/pl.m3u8
+#EXTINF:-1 tvg-id="" tvg-id="99268" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217720" group-title="Спорт",UPL.TV 4 HD 
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/99268/hls/pl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LrSfrVh/image-48.png" group-title="Спорт",ViP Sport 1 HD
+http://de.seetv.cc/play/5009/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217736" group-title="Спорт",ViP Sport 2 HD
+http://de.seetv.cc/play/5010/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217737" group-title="Спорт",ViP Sport 3 HD
+http://de.seetv.cc/play/5011/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217738" group-title="Спорт",ViP Sport 4 HD
+http://de.seetv.cc/play/5012/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217739" group-title="Спорт",ViP Sport 5 HD
+http://de.seetv.cc/play/5013/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217740" group-title="Спорт",ViP Sport 6 HD
+http://de.seetv.cc/play/5014/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217741" group-title="Спорт",ViP Sport 7 HD
+http://de.seetv.cc/play/5015/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217742" group-title="Спорт",ViP Sport 8 HD
+http://de.seetv.cc/play/5016/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217743" group-title="Спорт",ViP Sport 9 HD
+http://de.seetv.cc/play/5017/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217744" group-title="Спорт",ViP Sport 10 HD
+http://de.seetv.cc/play/5018/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217745" group-title="Спорт",ViP Sport 11 HD
+http://de.seetv.cc/play/5019/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217746" group-title="Спорт",ViP Sport 12 HD
+http://de.seetv.cc/play/5020/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217747" group-title="Спорт",ViP Sport 13 HD
+http://de.seetv.cc/play/5021/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217748" group-title="Спорт",ViP Sport 14 HD
+http://de.seetv.cc/play/5022/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217749" group-title="Спорт",ViP Sport 15 HD
+http://de.seetv.cc/play/5023/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217750" group-title="Спорт",ViP Sport 16 HD
+http://de.seetv.cc/play/5024/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217751" group-title="Спорт",ViP Sport 17 HD
+http://de.seetv.cc/play/5025/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217752" group-title="Спорт",ViP Sport 18 HD
+http://de.seetv.cc/play/5026/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217753" group-title="Спорт",ViP Sport 19 HD
+http://de.seetv.cc/play/5027/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LrSfrVh/image-48.png" group-title="Спорт",ViP Sport 20 HD
+http://de.seetv.cc/play/5028/513B40B01A8ABD3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=216933" group-title="Спорт",Варзиш Sport HD
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180187" group-title="Спорт",Конный мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180186" group-title="Спорт",Конный мир HD
+http://92.242.110.52:9835/udp/238.1.2.8:1234
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Спорт",Матч!
+http://92.242.110.52:9835/udp/238.1.1.42:1234
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/62/%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92_HD_%282015%2C_%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%29.png/revision/latest?cb=20201109092107&path-prefix=ru" group-title="Спорт",Матч! HD
+http://92.242.110.52:9835/udp/238.1.4.7:1234
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://static.wikia.nocookie.net/teleradio/images/3/31/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%A3%D0%BB%D1%8C%D1%82%D1%80%D0%B0_%282022%2C_%D0%B5%D1%84%D1%96%D1%80%29.png/revision/latest?cb=20230303110204&format=original&path-prefix=uk" group-title="Спорт",Матч! Ультра 4К
+http://158.101.214.187:8080/channel/5235fe46/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185081" group-title="Спорт",Матч! Арена
+http://92.242.110.52:9835/udp/238.1.1.10:1234
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185076" group-title="Спорт",Матч! Арена HD
+http://193.201.98.10:5000/c156
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185080" group-title="Спорт",Матч! Игра
+http://92.242.110.52:9835/udp/238.1.1.12:1234
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185075" group-title="Спорт",Матч! Игра HD
+http://193.201.98.10:5000/c104
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185082" group-title="Спорт",Матч! Планета
+http://91.207.114.209:5000/c156
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180125" group-title="Спорт",Матч! Премьер
+http://193.201.98.10:5000/c105
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180126" group-title="Спорт",Матч! Премьер HD
+http://158.101.214.187:8080/channel/nc5adbf8/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=190022" group-title="Спорт",Матч! Страна
+http://92.242.110.52:9835/udp/238.1.1.13:1234
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=190024" group-title="Спорт",Матч! Страна HD
+http://193.201.98.10:5000/c106
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185084" group-title="Спорт",Матч! Футбол 1
+http://92.242.110.52:9835/udp/238.1.1.14:1234
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185072" group-title="Спорт",Матч! Футбол 1 HD
+http://92.242.110.52:9835/udp/238.1.2.4:1234
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185085" group-title="Спорт",Матч! Футбол 2
+http://92.242.110.52:9835/udp/238.1.1.15:1234
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185073" group-title="Спорт",Матч! Футбол 2 HD
+http://92.242.110.52:9835/udp/238.1.2.5:1234
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185086" group-title="Спорт",Матч! Футбол 3
+http://92.242.110.52:9835/udp/238.1.1.16:1234
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185074" group-title="Спорт",Матч! Футбол 3 HD
+http://92.242.110.52:9835/udp/238.1.2.6:1234
+#EXTINF:-1 tvg-id="start" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=186709" group-title="Спорт",Старт
+http://92.242.110.52:9835/udp/238.1.1.30:1234
+#EXTINF:-1 tvg-id="start" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210326" group-title="Спорт",Старт HD
+http://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212349" group-title="Спорт",Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212349" group-title="Спорт",Старт Триумф HD
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187525" group-title="Спорт",Футбол HD (Таджикистан)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=190080" group-title="Кино и сериалы",IPTVPLAY МультСказки HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=179875" group-title="Детские",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="yo" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=170819" group-title="Музыка",#ë
+http://158.101.214.187:8080/channel/6e39c290/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188956" group-title="Музыка",#Музыка Первого
+http://92.242.110.52:9835/udp/238.1.11.28:1234
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185035" group-title="Музыка",1HD Music Television
+http://146.158.0.56/1HD/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188956" group-title="Музыка",Bridge
+http://92.242.110.52:9835/udp/238.1.9.3:1234
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214980" group-title="Музыка",Bridge Deluxe HD
+http://92.242.110.52:9835/udp/238.1.4.2:1234
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188959" group-title="Музыка",Bridge Classic
+http://188.113.190.15/133/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188960" group-title="Музыка",Bridge Hits
+http://188.113.190.15/133/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210246" group-title="Музыка",Bridge Hits HD
+http://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=213440" group-title="Музыка",Bridge Rock
+http://188.113.190.15/75/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=213440" group-title="Музыка",Bridge Rock HD
+http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188957" group-title="Музыка",Bridge Русский Хит
+http://92.242.110.52:9835/udp/238.1.9.5:1234
+#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188961" group-title="Музыка",Bridge Фрэш
+http://188.113.190.15:80/88/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210247" group-title="Музыка",Bridge Фрэш HD
+http://ec1df710.edmonst.net/iptv/TUX9UUZ5ZAMHBC/9053/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188962" group-title="Музыка",Bridge Шлягер
+http://188.113.190.15/137/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_tv_bg.png" group-title="Музыка",City TV HD (Болгария)
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/eurofolk-tv-7943-w700.webp" group-title="Музыка",EuroFolk TV (Болгария)
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185031" group-title="Музыка",Europa Plus TV
+http://92.242.110.52:9835/udp/238.1.6.5:1234
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210307" group-title="Музыка",Europa Plus TV HD
+#EXTVLCOPT:http-referrer=https://europaplustv.com/
+https://ad-hls-europaplus-ref.cdnvideo.ru/europaplus/eurptv2.smil/chunklist_b5128000.m3u8?hls_proxy_host=71e1d3e72fe15dcd96c31e96e15d216a&zoid=swsw
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg?format=1500w" group-title="Музыка",Kaloopy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropboxusercontent.com/s/n3l8yxzo73zxind/MAFI2AMUSIC.png" tvg-shift="0" tvg-id="hlsproxy-55200",Mafi2a Music TV
+http://158.101.214.187:8080/channel/n5a0c5a33/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropboxusercontent.com/s/n3l8yxzo73zxind/MAFI2AMUSIC.png" tvg-shift="0" tvg-id="hlsproxy-55200",Mafi2a Music TV Online
+#EXTVLCOPT:http-referrer=https://vk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61
+http://158.101.194.132:8080/channel/2cf5c0e4/index.m3u8?q=9193d2add39fa0f8dca3fd6514c3e862
+#EXTINF:-1 tvg-id="mezzo" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212714" group-title="Музыка",Mezzo
+http://92.242.110.52:9835/udp/238.1.8.16:1234
+#EXTINF:-1 tvg-id="mezzo-live-hd" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=212715" group-title="Музыка",Mezzo Live HD
+http://92.242.110.52:9835/udp/238.1.3.4:1234
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185722" group-title="Музыка",MusicBox Gold
+http://82.200.60.211:4022/udp/239.54.5.7:1224
+#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187331" group-title="Музыка",Russian MusicBox
+http://188.113.190.15/158/mono.m3u8
+#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210267" group-title="Музыка",Russian MusicBox HD
+http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-id="ProkopTVrockconcert" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=217021" group-title="Музыка",Prokop TV Hard&Heavy Concerts HD
+http://158.101.194.132:8888/channel/ae10061/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185030" group-title="Музыка",RU.TV
+http://92.242.110.52:9835/udp/238.1.9.14:1234
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210268" group-title="Музыка",RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-id="zhar-ptica" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=170825" group-title="Музыка",Жар-Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187147" group-title="Музыка",Жара TV
+http://92.242.110.52:9835/udp/238.1.6.6:1234
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210309" group-title="Музыка",Жара TV HD
+http://188.113.190.15/328/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=183572" group-title="Музыка",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 tvg-id="la-minor" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185685" group-title="Музыка",Ля-минор
+http://92.242.110.52:9835/udp/238.1.6.17:1234
+#EXTINF:-1 tvg-id="o2tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185457" group-title="Музыка",О!2
+http://188.113.190.15/189/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Музыка",Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/radio-logo/radio-retro-khit-1659120693.jpg?itok=g5Nr7GqI" group-title="Музыка",Ретро Хит ТВ HD
+http://158.101.214.187:8080/channel/7bd3fa0e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185456" group-title="Музыка",Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210531" group-title="Музыка",Страна FM ТВ HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180117" group-title="Музыка",ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8 
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210560" group-title="Музыка",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=185034" group-title="Музыка",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
