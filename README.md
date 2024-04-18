@@ -1,2 +1,2 @@
-# sprt-mftv.github.io
+# sprttv
 
