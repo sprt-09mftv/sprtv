@@ -1,4 +1,5 @@
-﻿#EXTM3U url-tvg="http://epg.online/epg.xml.gz"
+﻿
+#EXTM3U url-tvg="http://epg.online/epg.xml.gz"
 
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="pervy-pl4"  group-title="Россия" tvg-logo="http://pl.ottg.online/icon/2806.png",Первый канал HD +4
 http://str22.ottg.online/2806/video.m3u8?token=a21e0bf2aed2fe3ccf2e41fb134d7683
