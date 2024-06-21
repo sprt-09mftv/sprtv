@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=140800,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.42c01f"
+https://stream-msk-20.ott.tricolor.tv:443/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8
