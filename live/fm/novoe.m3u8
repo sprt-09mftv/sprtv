@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=100000
-http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/chunklist.m3u8?hls_proxy_host=647e386df6978822c1436b7f76f37d44
+http://hls-video01.cdnvideo.ru/video01/hDvideo01_1080.sdp/chunklist.m3u8?hls_proxy_host=647e386df6978822c1436b7f76f37d44
 
