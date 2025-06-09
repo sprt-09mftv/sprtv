@@ -6,7 +6,7 @@
 <meta name=viewport content="width=device-width, initial-scale=1.0">
 <title>Телеканал Лёва ТВ</title>
 <link rel=stylesheet href=https://smotret.tv//css/video.css>
-<script type="fa17f6d9b113e2f8340a0536-text/javascript">var meta=document.createElement("meta");meta.name="referrer",meta.content="never",document.getElementsByTagName("head")[0].appendChild(meta);</script>
+<script src="https://smotret.tv/js/ads-2025.js" type="fa17f6d9b113e2f8340a0536-text/javascript">var meta=document.createElement("meta");meta.name="referrer",meta.content="never",document.getElementsByTagName("head")[0].appendChild(meta);</script>
 </head>
 <body>
 <div id=video-container tabindex=0>
