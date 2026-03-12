@@ -15,10 +15,9 @@
 </div><script type='text/javascript'>
 $(function(){
 	var embed = "<div class='embed-responsive embed-responsive-16by9'><iframe class='embed_live embed-responsive-item' width='720' height='405' src='{url}' frameborder='0' allow='autoplay; encrypted-media; fullscreen' webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe></div>";
-	var streams = [];
-	streams[1] = 'https://player.mediavitrina.ru/ctc_v2/ctc_ext/vitrina_web/player.html';
-	streams[2] = 'https://rutube.ru/play/embed/13366182';
-	streams[3] = '//rutube.ru/pl/?pl_id&pl_type&pl_video=ffc110c6785e57f4c329179b555547b4';
+	var streams = [https://rutube.ru/pl/?pl_id&pl_type&pl_video=ffc110c6785e57f4c329179b555547b4];
+	streams[1] = 'https://rutube.ru/play/embed/13366182';
+	streams[2] = '//rutube.ru/pl/?pl_id&pl_type&pl_video=ffc110c6785e57f4c329179b555547b4';
 
 	$(document).on('click', '.live_stream_btn', function() {
 		var target = $(this).data('target');
@@ -38,14 +37,12 @@ $(function(){
 	</div>
 	<div class='card-body p-0'>
 	<div id='live_stream'>
-<div class='embed-responsive embed-responsive-16by9'><iframe class='embed_live embed-responsive-item' width='720' height='405' src='https://player.mediavitrina.ru/ctc_v2/ctc_ext/vitrina_web/player.html' frameborder='0' allow='autoplay; encrypted-media; fullscreen' webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-16by9'><iframe class='embed_live embed-responsive-item' width='720' height='405' src='https://rutube.ru/pl/?pl_id&pl_type&pl_video=ffc110c6785e57f4c329179b555547b4' frameborder='0' allow='autoplay; encrypted-media; fullscreen' webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe></div>
 	</div>
 	</div>
 	<div class='card-footer'>
 		<small class='mr-2'>прямой эфир канала СТС</small>
 		<button class='live_stream_btn btn btn-outline-primary' type='button' data-target='1'>плеер 1</button>
 		<button class='live_stream_btn btn btn-outline-primary' type='button' data-target='2'>плеер 2</button>
-		<button class='live_stream_btn btn btn-outline-primary' type='button' data-target='3'>плеер 3</button>
-
-
+		
 </body></html>
