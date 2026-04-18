@@ -1,9 +1,3 @@
-<video id="video" controls></video>
-<script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script>
-  var video = document.getElementById('video');
-  var hls = new Hls();
-  hls.loadSource('https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=_ncjeQJth-b8RAHXHowNmQ&e=2073302339');  // запускаем воспроизведение!
-  hls.attachMedia(video);
-  hls.on(Hls.Events.MANIFEST_PARSED, function() { video.play(); }); // начинаем показ видео
-    </script>
+<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="640" height="360" data-setup='{"techOrder": ["flash"]}'>
+  <source src="https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=_ncjeQJth-b8RAHXHowNmQ&e=2073302339" type='video/mp4'/>
+</video>
