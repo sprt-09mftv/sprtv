@@ -3,12 +3,12 @@
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio192000aac",NAME="Russian",LANGUAGE="ru",DEFAULT=YES,AUTOSELECT=YES,URI="track_1001_ac6e4b11/chunklist.m3u8"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="webvtt37599",NAME="Russian",LANGUAGE="ru",DEFAULT=NO,AUTOSELECT=NO,URI="track_2001_ac6e4b11/chunklist.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3730149,RESOLUTION=1024x576,AUDIO="audio192000aac",SUBTITLES="webvtt37599",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
-track_101_ac6e4b11/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_101_ac6e4b11/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5590737,RESOLUTION=1024x576,AUDIO="audio192000aac",SUBTITLES="webvtt37599",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
-track_102_ac6e4b11/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_102_ac6e4b11/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7681215,RESOLUTION=1024x576,AUDIO="audio192000aac",SUBTITLES="webvtt37599",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
-track_103_ac6e4b11/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_103_ac6e4b11/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10430715,RESOLUTION=1280x720,AUDIO="audio192000aac",SUBTITLES="webvtt37599",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
-track_104_ac6e4b11/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_104_ac6e4b11/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=18363498,RESOLUTION=1920x1080,AUDIO="audio192000aac",SUBTITLES="webvtt37599",FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/track_105_ac6e4b11/chunklist.m3u8
