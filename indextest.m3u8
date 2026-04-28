@@ -1,2 +1,8 @@
 #EXTM3U
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=yumor_fm.m3u8&serviceArea=MSK-SA-1
+#EXT-X-VERSION:4
+https://sprt-09mftv.github.io/sprtv/#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio192000aac",NAME="Russian",LANGUAGE="ru",DEFAULT=YES,AUTOSELECT=YES,URI="kultur2.m3u8"
+https://sprt-09mftv.github.io/sprtv/#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="webvtt37599",NAME="Russian",LANGUAGE="ru",DEFAULT=NO,AUTOSELECT=NO,URI="kultur2.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=18363498,RESOLUTION=1920x1080,AUDIO="audio192000aac",SUBTITLES="webvtt37599",FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2"
+https://sprt-09mftv.github.io/sprtv/kultur2.m3u8
+
+#http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=yumor_fm.m3u8&serviceArea=MSK-SA-1
